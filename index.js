@@ -30,6 +30,12 @@ const songs = [
         displayName: 'Light Switch',
         cover: 'assets/3.jpg',
         artist: 'Charlie Puth',
+    },
+    {
+        path: 'assets/4.mp3',
+        displayName: 'Vì đâu anh có biết',
+        cover: 'assets/4.jpg',
+        artist: 'Madihu (Feat.Vũ)',
     }
 ];
 
